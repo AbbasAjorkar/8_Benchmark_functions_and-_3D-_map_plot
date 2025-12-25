@@ -1,0 +1,5 @@
+# Implementation of Eight Benchmark Functions in MATLAB and plotting 3-D Map of their 2-D versions
+You need to implement the following 8 benchmark functions in MATLAB, for each function also you need to plot 3-D map for 2-D version of that. Please use the “Publish” component in MATLAB after finishing all your implementations and plotting, this component generates a report including your codes also results (i.e., plots) as a PDF file. You need to submit the report which is created by the “Publish” component. Add your group members’ name and student number to the report as a comment. Your design and implementation should be done for the general case, as indicated for the equations; it means dimension of the benchmark problems should be defined as an input parameter; in fact, just for plotting you will call it for D=2. Letter in other assignments we will use them for higher dimensions like D=10 and 30.
+<img width="525" height="455" alt="image" src="https://github.com/user-attachments/assets/e1da7e30-6e88-47a5-87fe-0e13b81e27ad" />
+<img width="661" height="488" alt="image" src="https://github.com/user-attachments/assets/1b710818-187d-4f5c-b245-39446cd06066" />
+
